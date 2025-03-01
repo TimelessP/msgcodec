@@ -2,6 +2,9 @@
 
 This is a simple encoder/decoder application built with Python 3.11 and Tkinter. The application provides a graphical interface that lets users enter messages and then encode or decode them using placeholder functions. These functions—`message_encode` and `message_decode`—are provided as stubs that currently reverse the text. They are intended to be customized by the developer to implement custom encoding/decoding logic.
 
+![screenshot](screenshot.png)
+
+
 ## File Structure
 
 - **msgcodec.py**: The main Python script containing the application code.
